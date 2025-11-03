@@ -1,0 +1,14 @@
+Feature,Mann_Whitney_p_display,Chi_p_display
+age,<0.001,<0.001
+sex,<0.001,<0.001
+cp,<0.001,<0.001
+trestbps,<0.001,<0.001
+chol,<0.001,<0.001
+fbs,0.188,0.219
+restecg,<0.001,<0.001
+thalach,<0.001,<0.001
+exang,<0.001,<0.001
+oldpeak,<0.001,<0.001
+slope,<0.001,<0.001
+ca,<0.001,<0.001
+thal,<0.001,<0.001
