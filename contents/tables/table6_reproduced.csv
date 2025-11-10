@@ -1,14 +1,14 @@
 Feature,Total Counts,Order of Features
-cp,78,1
+cp,80,1
 ca,74,2
 thal,71,3
-age,63,4
-oldpeak,59,5
-thalach,58,6
-chol,56,7
+oldpeak,67,4
+age,62,5
+thalach,59,6
+chol,50,7
 sex,38,8
 trestbps,37,9
-exang,36,10
-slope,35,11
-restecg,17,12
-fbs,14,13
+exang,37,10
+slope,31,11
+restecg,16,12
+fbs,11,13
