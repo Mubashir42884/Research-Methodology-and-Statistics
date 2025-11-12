@@ -1,0 +1,4 @@
+Effect_Size,Cohens_d,Required_n_per_group,Our_n0,Our_n1,Adequate
+Small (d=0.2),0.2,393,499,526,True
+Medium (d=0.5),0.5,63,499,526,True
+Large (d=0.8),0.8,25,499,526,True

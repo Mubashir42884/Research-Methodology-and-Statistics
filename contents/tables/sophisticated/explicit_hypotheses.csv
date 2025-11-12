@@ -1,0 +1,14 @@
+Feature,H0_difference,H1_difference,H0_correlation,H1_correlation
+age,No significant difference in age between disease/no-disease groups,Significant difference in age between groups,age has no correlation with heart disease,age correlates with heart disease
+sex,No significant difference in sex between disease/no-disease groups,Significant difference in sex between groups,sex has no correlation with heart disease,sex correlates with heart disease
+cp,No significant difference in cp between disease/no-disease groups,Significant difference in cp between groups,cp has no correlation with heart disease,cp correlates with heart disease
+trestbps,No significant difference in trestbps between disease/no-disease groups,Significant difference in trestbps between groups,trestbps has no correlation with heart disease,trestbps correlates with heart disease
+chol,No significant difference in chol between disease/no-disease groups,Significant difference in chol between groups,chol has no correlation with heart disease,chol correlates with heart disease
+fbs,No significant difference in fbs between disease/no-disease groups,Significant difference in fbs between groups,fbs has no correlation with heart disease,fbs correlates with heart disease
+restecg,No significant difference in restecg between disease/no-disease groups,Significant difference in restecg between groups,restecg has no correlation with heart disease,restecg correlates with heart disease
+thalach,No significant difference in thalach between disease/no-disease groups,Significant difference in thalach between groups,thalach has no correlation with heart disease,thalach correlates with heart disease
+exang,No significant difference in exang between disease/no-disease groups,Significant difference in exang between groups,exang has no correlation with heart disease,exang correlates with heart disease
+oldpeak,No significant difference in oldpeak between disease/no-disease groups,Significant difference in oldpeak between groups,oldpeak has no correlation with heart disease,oldpeak correlates with heart disease
+slope,No significant difference in slope between disease/no-disease groups,Significant difference in slope between groups,slope has no correlation with heart disease,slope correlates with heart disease
+ca,No significant difference in ca between disease/no-disease groups,Significant difference in ca between groups,ca has no correlation with heart disease,ca correlates with heart disease
+thal,No significant difference in thal between disease/no-disease groups,Significant difference in thal between groups,thal has no correlation with heart disease,thal correlates with heart disease

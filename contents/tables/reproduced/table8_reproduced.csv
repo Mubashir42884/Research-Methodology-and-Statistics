@@ -1,0 +1,4 @@
+,precision,recall,f1-score,support
+No Heart Disease,0.95,1.0,0.97,150.0
+Heart Disease,1.0,0.95,0.97,158.0
+weighted avg,0.98,0.97,0.97,308.0
