@@ -30,5 +30,5 @@ def timed_run(label, model, train_func, runtimes, *args, **kwargs):
     model, result = train_func(model, *args, **kwargs)
     elapsed = time.time() - start
     runtimes[label] = round(elapsed, 3)
-    print(f"Model Runtime: {elapsed:.3f} sec")
+    print(f"Process Runtime: {elapsed:.3f} sec")
     return model, result
