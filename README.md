@@ -1,1 +1,1 @@
-# Research-Methodology-and-Stats
+# Research-Methodology-and-Statistics
