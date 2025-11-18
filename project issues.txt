@@ -1,12 +1,15 @@
 ### Issues found:
 	  I. 	Minor mismatch in Tab1 with the sample size for each target class.
+		Refer to: "Research-Methodology-and-Stats\notebooks\01_data_explore.ipynb"
 
 	 II. 	Another mistmatch in Tab2 for `fbs` feature's MWU & Chi-sqr results.
+		Refer to: "Research-Methodology-and-Stats\notebooks\02_naive_reproduction_STATS.ipynb"
 
 	III. 	Pearson Correlation test were performed even tho it doesn't meet assumption criteria.
+		Refer to: End of "Research-Methodology-and-Stats\notebooks\04_sophisticated_reproduction_STATS.ipynb"
 
 	 IV.	No proper data analysis were found in the original work. No mention of duplicates.
 		This is a critical issue found that 71% of data are duplicated and inflates the
 		effect size without giving any solution to the actual sample size.
-
-	  V.	
+		Refer to: Start of "Research-Methodology-and-Stats\notebooks\04_sophisticated_reproduction_STATS.ipynb"
+		See !! CRITICAL ANALYSIS-01
