@@ -1,0 +1,14 @@
+Rank,Feature,Borda_Count
+1,cp,83
+2,ca,72
+3,thal,65
+4,oldpeak,62
+5,age,58
+6,thalach,57
+7,chol,53
+8,sex,44
+9,trestbps,40
+10,slope,40
+11,exang,35
+12,restecg,16
+13,fbs,12

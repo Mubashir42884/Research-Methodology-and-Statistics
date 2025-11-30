@@ -1,4 +1,4 @@
 Method,Mean_Accuracy,Std_Dev,Computation_Time_sec
-Default,1.0,0.0,0.5674984455108643
-Grid Search,1.0,0.0,83.76849865913391
-Random Search,1.0,0.0,5.478501319885254
+Default,1.0,0.0,0.5639986991882324
+Grid Search,1.0,0.0,80.84599828720093
+Random Search,1.0,0.0,5.325001001358032

@@ -7667,3 +7667,70 @@ trailer
 startxref
 1144484
 %%EOF
+352 0 obj
+[ 353 0 R 354 0 R 355 0 R 356 0 R 357 0 R 569 0 R 570 0 R]
+endobj
+569 0 obj
+<</Type/Annot/Subtype/Highlight/P 335 0 R/F 4/M(D:20251126204003-04'00')/NM(8d90ed24-a0b1-4191-94ef-148b244c5605)/Rect[ 155.905502 192.346204 556.294802 212.74521]/C[ .968627 .6 .819608]/Popup 570 0 R/CA 1/CreationDate(D:20251126204003-04'00')/QuadPoints[ 507.524702 212.74521 556.294802 212.74521 507.524702 202.39521 556.294802 202.39521 155.905502 203.168698 220.377002 203.168698 155.905502 192.346204 220.377002 192.346204]/AP<</N 577 0 R>>>>
+endobj
+570 0 obj
+<</Type/Annot/Subtype/Popup/Open false/F 28/Rect[ 612 92.74521 792 212.74521]/Parent 569 0 R>>
+endobj
+575 0 obj
+<</Length 234/Type/XObject/Subtype/Form/FormType 1/BBox[ 155.905502 192.346204 556.294802 212.74521]/Matrix[ 1 0 0 1 -155.905502 -192.346204]/Resources<</ProcSet[/PDF]>>>>
+stream
+.968627 .6 .819608 rg
+.646875 w
+507.524702 202.39521 m
+507.524702 212.74521 l
+556.294802 212.74521 l
+556.294802 202.39521 l
+f
+.676406 w
+155.905502 192.346204 m
+155.905502 203.168698 l
+220.377002 203.168698 l
+220.377002 192.346204 l
+f
+
+endstream
+endobj
+576 0 obj
+<</Length 9/Type/XObject/Subtype/Form/FormType 1/BBox[ 0 0 400.3893 20.399006]/Matrix[ 1 0 0 1 0 0]/Resources<</ProcSet[/PDF]/XObject<</Form 575 0 R>>>>/Group<</S/Transparency>>>>
+stream
+/Form Do
+
+endstream
+endobj
+577 0 obj
+<</Length 20/Type/XObject/Subtype/Form/FormType 1/BBox[ 0 0 400.3893 20.399006]/Matrix[ 1 0 0 1 0 0]/Resources<</ProcSet[/PDF]/XObject<</MWFOForm 576 0 R>>/ExtGState<</R0 578 0 R>>>>>>
+stream
+/R0 gs
+/MWFOForm Do
+
+endstream
+endobj
+578 0 obj
+<</Type/ExtGState/AIS false/BM/Multiply>>
+endobj
+1 0 obj
+<</CrossMarkDomains#5B1#5D(springer.com)/Creator(Springer)/ModDate(D:20251127003647-04'00')/CreationDate(D:20221123163631+05'30')/CrossmarkMajorVersionDate(2010-04-23)/Subject(Scientific Reports, https://doi.org/10.1038/s41598-022-24633-4)/Author(Iffat Ara Talin )/Title(Finding the influential clinical traits that impact on the diagnosis of heart disease using statistical and machine-learning techniques)/CrossmarkDomainExclusive(true)/robots(noindex)/Producer(Adobe PDF Library 15.0; modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version))/doi(10.1038/s41598-022-24633-4)/CrossMarkDomains#5B2#5D(springerlink.com)>>
+endobj
+xref
+1 1
+0001147784 00000 n
+352 1
+0001146164 00000 n
+569 2
+0001146240 00000 n
+0001146705 00000 n
+575 4
+0001146817 00000 n
+0001147259 00000 n
+0001147484 00000 n
+0001147725 00000 n
+trailer
+<</Info 1 0 R/ID[<37B6BD34D4798AD8CBF4ABECF3A33A64><8DD0D0DF8D72A6652407269E7B23F604>]/Root 340 0 R/Size 579/Prev 1144484>>
+startxref
+1148447
+%%EOF

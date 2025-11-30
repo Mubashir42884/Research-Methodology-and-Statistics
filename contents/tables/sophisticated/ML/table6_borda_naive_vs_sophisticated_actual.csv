@@ -1,0 +1,14 @@
+Rank,Naive_Borda,Naive_Count,Sophisticated_Borda,Sophisticated_Count
+1,cp,78,cp,83
+2,ca,71,ca,72
+3,thal,63,thal,65
+4,age,55,oldpeak,62
+5,thalach,54,age,58
+6,oldpeak,52,thalach,57
+7,sex,50,chol,53
+8,trestbps,50,sex,44
+9,slope,41,trestbps,40
+10,exang,37,slope,40
+11,restecg,31,exang,35
+12,chol,30,restecg,16
+13,fbs,23,fbs,12

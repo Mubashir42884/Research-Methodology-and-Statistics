@@ -1,0 +1,14 @@
+Rank,SHAP,Borda,Mann_Whitney,Spearman
+1,cp,cp,cp,ca
+2,ca,ca,thalach,cp
+3,thal,thal,ca,exang
+4,oldpeak,oldpeak,oldpeak,thalach
+5,thalach,age,thal,oldpeak
+6,exang,thalach,exang,thal
+7,slope,chol,slope,slope
+8,sex,sex,age,sex
+9,age,trestbps,sex,age
+10,chol,slope,restecg,restecg
+11,trestbps,exang,trestbps,trestbps
+12,restecg,restecg,chol,chol
+13,fbs,fbs,fbs,fbs
