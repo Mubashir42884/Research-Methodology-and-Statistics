@@ -40,4 +40,4 @@
 └─ .gitignore
 ```
 
-**N.B.: All of the codes inside the notebook were beautified, documented, and simplified with the help of using large language models (LLMs).**
+**NOTE: This repository contains the complete source materials and full working directory for the project. All research, analysis, code, and written content were produced by me, and the entirety of the project is represented within this repository. AI tools were used only to refine some parts of the final drafts of this project.**
